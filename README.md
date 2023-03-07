@@ -55,29 +55,18 @@
 
 ## Current GitHub Stats 📊
 
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=brenobarbareli&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
+<div>
+  <a href="https://github.com/brenobarbareli">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=brenobarbareli&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobarbareli&layout=compact&langs_count=16&theme=dracula"/> 
+ </div>
 
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching
+
+
+
 
 ---
 
 ## GitHub Streaks 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brenobarbareli&theme=dracula&hide_border=false)<br/>
-
-
-<!--
-**brenobarbareli/brenobarbareli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
