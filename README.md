@@ -38,7 +38,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI] (https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 #### Database/State
