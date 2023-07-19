@@ -51,18 +51,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## Current GitHub Stats 📊
-
-<div>
-  <a href="https://github.com/brenobarbareli">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=brenobarbareli&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobarbareli&layout=compact&langs_count=16&theme=dracula"/> 
- </div>
-
-
-
 
 
 ---
