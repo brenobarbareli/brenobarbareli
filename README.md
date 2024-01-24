@@ -6,7 +6,6 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-000.svg?logo=Instagram&logoColor=white)](https://instagram.com/brenobarbarelli/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-barbareli-9821a8142/)
 </div>
 
