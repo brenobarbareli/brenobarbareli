@@ -52,6 +52,8 @@
 
 ![Vercel](https://img.shields.io/badge/Vercel-fff?style=for-the-badge&logo=vercel&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-fff?style=for-the-badge&logo=github&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-fff?style=for-the-badge&logo=microsoft-azure&logoColor=blue)
+
 
 </div> 
 
