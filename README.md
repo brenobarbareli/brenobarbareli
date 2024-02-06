@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/breno-barbareli-9821a8142/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/breno-barbareli/)
 </div>
 
 <div align="center">
