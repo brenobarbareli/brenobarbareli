@@ -42,14 +42,15 @@
 
 #### Database/State
 
-![SQLServer](https://img.shields.io/badge/sqlserver-fff?logo=microsoft-sql-server&style=for-the-badge)
+![SQLServer](https://img.shields.io/badge/sqlserver-fff.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/mysql-fff.svg?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-fff.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 
 #### Web Hosting
 
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-fff?style=for-the-badge&logo=vercel&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-fff?style=for-the-badge&logo=github&logoColor=black)
 
 
 
