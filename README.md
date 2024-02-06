@@ -17,6 +17,7 @@
 </p>
 
 ---
+<div align="center">
 
 ## Tech Stack 💻
 
@@ -52,10 +53,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-fff?style=for-the-badge&logo=vercel&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-fff?style=for-the-badge&logo=github&logoColor=black)
 
-
+</div> 
 
 ---
-
+<div align="center">
 ## GitHub Streaks 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brenobarbareli&theme=dracula&hide_border=false)<br/>
+</div> 
