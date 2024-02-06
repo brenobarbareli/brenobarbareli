@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there 👋🏻, I'm Breno Barbareli </br> 
+<h1 align="center"> Hey, I'm Breno Barbareli </br> 
 </h1>
 
 <p align='center'>
