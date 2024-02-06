@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/breno-barbareli-9821a8142/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/breno-barbareli-9821a8142/)
 </div>
 
 <div align="center">
@@ -22,15 +22,15 @@
 
 #### Languages
 
-![Markdown](https://img.shields.io/badge/-Markdown-f5f5f7?style=for-the-badge&logo=markdown&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-059fdc?style=for-the-badge&logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-e55c00?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-0072ae.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-fff?style=for-the-badge&logo=markdown&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=html5&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/typescript-fff.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### JS Framework/Library
 
-![React](https://img.shields.io/badge/-ReactJS-FFFFFF?style=for-the-badge&logo=react&logoColor=blue)
+![React](https://img.shields.io/badge/-ReactJS-fff?style=for-the-badge&logo=react&logoColor=blue)
 
 #### CSS Framework/Library/Pre-processors
 
