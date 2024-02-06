@@ -22,7 +22,7 @@
 
 #### Languages
 
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-f5f5f7?style=for-the-badge&logo=markdown&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-059fdc?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-e55c00?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,12 +30,12 @@
 
 #### JS Framework/Library
 
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-FFFFFF?style=for-the-badge&logo=react&logoColor=blue)
 
 #### CSS Framework/Library/Pre-processors
 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=blue)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-fff?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![Styled Components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
