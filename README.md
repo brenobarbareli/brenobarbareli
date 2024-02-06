@@ -42,8 +42,9 @@
 
 #### Database/State
 
-![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLServer](https://img.shields.io/badge/sqlserver-fff?logo=microsoft-sql-server&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-fff.svg?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-fff.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 
 #### Web Hosting
 
