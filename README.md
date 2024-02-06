@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=html5&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/typescript-fff.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-fff.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 #### JS Framework/Library
 
@@ -36,8 +36,8 @@
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=blue)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-fff?style=for-the-badge&logo=ant-design&logoColor=blue)
-![Styled Components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-fff?style=for-the-badge&logo=styled-components&logoColor=black)
+![Material UI](https://img.shields.io/badge/-Material%20UI-fff?style=for-the-badge&logo=tailwind-css&logoColor=blue)
 
 
 #### Database/State
