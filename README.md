@@ -58,8 +58,6 @@
 </div> 
 
 ---
-<div align="center">
 ## GitHub Streaks 🔥
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brenobarbareli&theme=dracula&hide_border=false)<br/>
-</div> 
