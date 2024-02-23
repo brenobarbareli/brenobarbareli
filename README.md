@@ -26,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=for-the-badge&logo=markdown&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=html5&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=html5&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/typescript-fff.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 #### JS Framework/Library
