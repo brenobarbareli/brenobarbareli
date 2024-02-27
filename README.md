@@ -36,8 +36,8 @@
 #### CSS Framework/Library/Pre-processors
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-fff?style=for-the-badge&logo=tailwind-css&logoColor=blue)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-fff?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![Styled Components](https://img.shields.io/badge/styled--components-fff?style=for-the-badge&logo=styled-components&logoColor=red)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-fff?style=for-the-badge&logo=ant-design&logoColor=blue)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-fff?style=for-the-badge&logo=tailwind-css&logoColor=blue)
 
 
