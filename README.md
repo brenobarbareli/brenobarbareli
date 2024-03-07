@@ -16,7 +16,6 @@
 </div> 
 </p>
 
----
 <div align="center">
 
 ## Tech Stack 💻
@@ -57,7 +56,11 @@
 
 </div> 
 
----
-## GitHub Streaks 🔥
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=brenobarbareli&theme=dracula&hide_border=false)<br/>
+<h2 align="center"> GitHub Streaks 🔥 </h2>
+<div align="center">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobarbareli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+</div> 
