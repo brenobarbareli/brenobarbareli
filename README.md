@@ -8,12 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/breno-barbareli/)
 </div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=brenobarbareli&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-</div> 
 </p>
 
 <div align="center">
@@ -31,6 +25,7 @@
 #### JS Framework/Library
 
 ![React](https://img.shields.io/badge/-ReactJS-fff?style=for-the-badge&logo=react&logoColor=blue)
+![Next](https://img.shields.io/badge/-next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=black)
 
 #### CSS Framework/Library/Pre-processors
 
