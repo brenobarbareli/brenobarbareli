@@ -51,7 +51,7 @@
 
 </div> 
 
-<h2 align="center"> GitHub Streaks 🔥 </h2>
+<h2 align="center"> ⚙️ GitHub Analytics </h2>
 <div align="center">
       <img
         align="center"
